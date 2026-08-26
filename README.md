@@ -1,6 +1,6 @@
 ### Olá, eu sou Laydianne Naira👋
 
-Bem-vindo(a) ao meu cantinho no GitHubl! Sou um desenvolvedor focado em construir soluções robustas e escaláveis, com experiência em projetos **SaaS**. Minha paixão é transformar ideias complexas em produtos eficientes.
+Bem-vindo(a) ao meu cantinho no GitHubl! Sou uma desenvolvedora focada em construir soluções robustas e escaláveis, com experiência em projetos **SaaS**. Minha paixão é transformar ideias complexas em produtos eficientes.
 
 ✨ Atualmente, estou desenvolvendo projetos SaaS utilizando tecnologias como **React, Node.js, PostgreSQL**, **microsserviços**, **CI/CD** e **Docker**. 👋
 
