@@ -4,7 +4,7 @@ Bem-vindo(a) ao meu cantinho no GitHubl! Sou uma desenvolvedora focada em constr
 
 ✨ Atualmente, estou desenvolvendo projetos SaaS utilizando tecnologias como **React, Node.js, PostgreSQL**, **microsserviços**, **CI/CD** e **Docker**. 👋
 
-✨ Sou uma desenvolvedora focado em Desenvolvimento full stack e treinamento de IA usando RAG.
+✨ Atualmente atuo em Desenvolvimento full stack e treinamento de IA usando RAG.
 📚 Atualmente estou aprendendo Machine Learning e Deep Learning.
 🎯 Meu objetivo é me tornar uma especialista em IA.
 
